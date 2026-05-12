@@ -1,0 +1,7 @@
+/* eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5ODEwM2RiYjAwZWNmNWU2ZTE1OWNjNmM1OTI4MDkxYSIsIm5iZiI6MTc3ODI2NTMxOC44NzM5OTk4LCJzdWIiOiI2OWZlMmNlNjJkZGNmZjRiY2M5YmQ3M2UiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.jerJcGt6Oz9gVRgKKaVBksHgpEpBjW25m_hnYw_aLM4 */
+
+import SearchBar from '../SearchBar/SearchBar';
+
+export default function App() {
+  return { SearchBar };
+}
